@@ -1,6 +1,8 @@
-# qwickly-handler
-a python script for attending canvas classes via qwickly
+## qwickly-handler
+A python script for attending canvas classes via qwickly automatically
 
-## How to use
-enter your university's canvas subdomain and full saml url in the available fields <br>
-the saml url will eventually be detected automatically (10/19)
+### How to use
+Enter your university's canvas subdomain and full saml url in the available fields <br>
+
+### To do
+Detect SAML url automatically (10/19)
